@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Doctor Search Application
 
 A React-based web application for searching and filtering doctors based on various criteria like speciality, consultation type, and more.
@@ -62,6 +61,3 @@ src/
 ## License
 
 This project is licensed under the MIT License.
-=======
-# Bajaj_finserv_FrontEnd
->>>>>>> 8a73c907046f536c9cd4e961aef89affb418bebf
